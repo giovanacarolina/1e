@@ -11,3 +11,8 @@ p{
     font-size: 40px;
     text-align:justify;
 }
+#imagem1{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
